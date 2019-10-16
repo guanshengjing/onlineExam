@@ -1,2 +1,0 @@
-数据导入：load data infile '路径+文件名' into table 数据表名 fields terminated by ',' lines terminated by '\n';
-数据导出：select * from 数据库名字 into outfile '导出文件路径+文件名+后缀' fields terminated by ',' lines terminated by '\n';
